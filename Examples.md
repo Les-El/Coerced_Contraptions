@@ -1,23 +1,19 @@
 # Coerced Contraptions: Examples in Play
 
-Here are three end-to-end examples of the *Coerced Contraptions* ability in play.
-
----
-
 ### Example 1: The Prepared Success ("Sweet Talking")
 
-* **The Goal:** Ren, a wasteland mechanic, wants to start a derelict water purifier in a new settlement.
-* **The Setup:** Ren's **Domain** is "Pre-War Municipal Infrastructure." His relevant **Ability** is Intelligence (Modifier +3). The GM decides the purifier is in surprisingly good shape, but it hasn't had needed maintenance for years. The task is **DC 13**.
+* **The Goal:** Ren, a wasteland mechanic, wants to restart a derelict water purifier in a new settlement.
+* **The Setup:** Ren's **Domain** is "Pre-War Municipal Infrastructure." His relevant **Ability** is Intelligence (Modifier +3). The GM decides the purifier is in surprisingly good shape, but it hasn't had the needed maintenance for years. The task is **DC 13**.
 * **The Unified Modifier Narrative:** Ren is unhurried, well-rested, and this is his specialty. He has negotiated with the town for food and lodging for as long as the repair takes, in addition to a tidy bonus upon completion.
 
 | **Category** | **Modifier** | **Reason** |
 | :--- | :--- | :--- |
 | 1. Domain | +2 | An "Extremely Correlated" fit for his Domain. |
-| 2. Affinity | -1 | He's never seen this specific machine before. |
+| 2. Affinity | 0 | Ren was part of a service crew years ago visiting the previous setttlment may years ago. |
 | 4. History | +1 | He has a history of success with a nearly identical purifier in a nearby town. |
 | 5. Time Scope | +3 | He is being "Meticulous." Ren has every reason to take as much time as needed. |
 | 6. Constitution | 0 | He is well-rested and focused. |
-| **Total UM** | **+5** | *Capped at +5 (Sweet Talking)* |
+| **Total UM** | **+5** | *+ 6 but Capped at +5 (Sweet Talking)* |
 
 * **The Roll:** Ren makes a hidden roll.
     * **Formula:** `d20 + 5 (Unified Modifier) + 3 (Intelligence)`
@@ -47,7 +43,7 @@ Here are three end-to-end examples of the *Coerced Contraptions* ability in play
 * **The Outcome:** The GM rolls a **10**.
     * **Result:** 10 + 0 + 2 = **12**.
     * **Narrative:** The result (12) fails to meet the **DC 17**. The attempt is a **Failure**. The GM decies that Silas must use the weapon to learn if it worked.
-    * At the start of Silas's next turn, the GM describes the **Glitch**: "All was going well until you lined up your second shot. The crack opens again as you note that base layer of the sealant failed to set. The crack widens and spreads to the propellant cartridge, and the gun violently vents freezing gas all over your hands. Take 1d4 cold damage, and you can't use this hand for an object interaction next turn as you shake it off in pain. The gun will be more difficult to repair next time."
+    * At the start of Silas's next turn, the GM describes the **Glitch**: "All was going well until you lined up your second shot. The crack opens again as you note that base layer of the sealant failed to set. The crack widens and spreads to the propellant cartridge, and the gun violently vents freezing gas all over your hands. Take 1d4 cold damage, and you can't use your secondary hand for an object interaction next turn as you shake it off in pain. The gun will be more difficult to repair next time."
 
 ---
 
@@ -69,7 +65,7 @@ Here are three end-to-end examples of the *Coerced Contraptions* ability in play
     * **GM:** "Eva, you look at the console, and you know this is hopeless. Your tools are completely wrong, and you're already overwhelmed by the alien text. You can't do this."
     * **Player:** "I don't care, I have to try! Can I take extra time? Be 'Deliberate'?"
     * **GM:** "The countdown is at 30 seconds. No, you can't. The skill check is not allowed. If you stay and try, you will die in the explosion."
-* **The Outcome (Player Choice):** Eva abandons the idea and instead uses her Action to grab a party member and dive for cover, narrowly escaping the blast. The player's choice was informed and constrained by the system, leading to a dramatic (rather than frustrating) failure.
+* **The Outcome (Player Choice):** Eva abandons the idea and instead uses her Action to grab a party member and dive for cover, narrowly escaping the blast. The player's choice was informed and constrained by the system, leading to a dramatic failure, while not encurring the downsides of the Ability.
 
 ---
 
@@ -85,13 +81,14 @@ Here are three end-to-end examples of the *Coerced Contraptions* ability in play
 | 2. Affinity | +1 | "Intimate Knowledge" of this model family. |
 | 4. History | +1 | "History of Success" with his own tractor. |
 | 4. History | -1 | "Recent Failure." The tractor was left to rot for weeks after it broke, making the job worse. |
-| 5. Time Scope | -3 | "Frantic." Gregor is trying to work as fast as possible just to stop the neighbor's harassment. |
-| 6. Constitution| -3 | **Focus:** "Very Distracted" (-2) by the constant phone calls. **Sleep:** "Short on sleep" (-1) from stressing about it. |
-| **Total UM** | **-3** | *(Positives: +4. Negatives: -7. Total: -3. Flavor: Bullying)* |
+| 5. Time Scope | -2 | "Rushed." Gregor is trying to work fast just to stop the neighbor's harassment. |
+| 6. Constitution| -3 | **Focus:** "Very Distracted" (-2) by the constant phone calls. **Sleep:** "Short on sleep" (-1) from being woken up at 5 am about the tractor. |
+| **Total UM** | **-2** | *(Flavor: Bullying)* |
 
 * **The Roll:** Gregor makes the check.
-    * **Formula:** `d20 + (-3) (Unified Modifier) + 3 (Strength)`
+    * **Formula:** `d20 + (-2) (Unified Modifier) + 3 (Strength)`
 * **The Outcome:** The GM sees Gregor's d20 roll is a **4**.
-    * **Result:** 4 - 3 + 3 = **4**.
-    * **Narrative:** The result (4) is a spectacular failure against the **DC 12**. The GM consults the *Flavor Spectrum*: Gregor's Unified Modifier was **-3**, which is in the "Bullying" range.
-    * The GM describes the **Backlash**: "You've just cleared the line and are tightening the final bolt when your phone rings *again*. You're so startled and angry you put too much torque on the wrench. It snaps, and your hand slams into a rusted manifold, gashing your arm open. At the same moment, the bolt-head shears off and falls into the open engine block. The tractor is now inoperable. You, bleeding and furious, call your neighbor and tell him to hire a tow truck and take his scrap heap to a real dealership."
+    * **Result:** 4 - 2 + 3 = **5**.
+    * **Narrative:** The result (5) is a spectacular failure against the **DC 12**. The GM consults the *Flavor Spectrum*: Gregor's Unified Modifier was **-3**, which is in the "Bullying" range.
+    * The GM describes the **Backlash**: "You've just cleared the line and are tightening the final bolt when your phone rings *again*. You're so startled and angry you put too much torque on the wrench. It snaps, and your hand slams into a rusted manifold, gashing your arm open. At the same moment, the bolt-head shears off and falls into the open engine block. The tractor is now inoperable. You, bleeding and furious, call your neighbor and totally lose your cool. You tell him not to be a bother and a begger in the same bloody breath. With a string of cuss words you tell him to get his machine towed to a shop by tomorrow or you'll remove it once piece at a time.
+    * The Tractor's Revenge: You're injured, you've lost social influence with your neighbor, and you might even be at risk of legal or finacial reprocusions. And you lost two days you couldn have spent on your own farm work. 

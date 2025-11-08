@@ -5,6 +5,7 @@ This is a homebrew Ability for interacting with non-magical technology. It can b
 ## Prerequisite and Action Type
 
 * ***Prerequisite:*** Character Level 1st, and a minimum score of 10 in the primary Ability Score relevant to your chosen Domain (e.g., Int for complex electronics, Dex for small mechanisms, Str for heavy industrial equipment). Alternatively, proficiency with an appropriate set of Tools relevant to the Domain may suffice, as determined by the GM.
+* ***Availability:*** Coerce Contraptions is only available to characters with an interest or relationship with machines in their Domain. The Abilty is not available to those who primarly use any magic, or regualrly use their own magic. 
 * ***Action Type:*** This ability is typically an Activity taking minutes or hours, governed by the Time Scope modifier. An in-combat attempt requires your full Action for that turn (see Time Scope below).
 
 ---
@@ -13,8 +14,6 @@ This is a homebrew Ability for interacting with non-magical technology. It can b
 
 When you use this Ability to attempt to build, fix, or force a Contraption to work, you make a special Coerced Contraptions check.
 
-$$\text{Roll} = \text{d20} + \text{Unified Modifier}$$
-**OR**
 $$\text{Roll} = \text{d20} + \text{Unified Modifier} + \text{Relevant Ability Modifier}$$
 
 The 'Relevant Ability Modifier' is the same one tied to your Domain and used for this ability's prerequisite (e.g., Intelligence, Dexterity, or Strength).
@@ -42,7 +41,7 @@ Calculate your total net Unified Modifier by adding all relevant positives and n
 * **Impossible Attempt:** A Net Modifier of -6 or lower is considered Impossible.
 
 > **GM Exception (Uncapped Negatives)**
-> TGM Exception (Uncapped Negatives) The GM may allow an Impossible Attempt, but the negative modifier is NOT capped. The GM must warn you that failure will be truly catastrophic.
+> The GM may allow an Impossible Attempt, but the negative modifier is NOT capped. The GM must warn you that failure will be truly catastrophic.
 
 > This exception only applies if success remains mathematically possible. If the target DC for the task is unreachable even on a Natural 20, the attempt is not allowed.
 
